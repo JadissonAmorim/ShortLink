@@ -1,0 +1,17 @@
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\bin\Debug\net6.0\Entidades.dll
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\Jadoka\source\repos\APIMensage\API LINK SHORTENER\Domain\obj\Debug\net6.0\ref\Domain.dll
